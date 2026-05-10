@@ -2,13 +2,18 @@
 I made a custom 67 keychain that lights up when you connect it to your computer, phone or other device. I think it's really cool and I can't wait to take it to school once I build it.
 <br>
 
-<img width="787" height="684" alt="Screenshot 2026-04-30 at 10 00 24 am" src="https://github.com/user-attachments/assets/3c61b0fb-59e2-4e7d-a651-8ecd7ac3e2ca" />
+
+<img width="756" height="507" alt="Screenshot 2026-05-10 at 5 51 34 pm" src="https://github.com/user-attachments/assets/43a06aa1-a153-421d-a54d-2f808cd5cc81" />
 <br>
 
-<img width="961" height="649" alt="Screenshot 2026-04-21 at 7 26 47 pm" src="https://github.com/user-attachments/assets/135c2385-2fee-4435-8456-53c1c96fb3cd" />
+<img width="629" height="392" alt="Screenshot 2026-05-10 at 5 52 07 pm" src="https://github.com/user-attachments/assets/c0f90b16-2a7c-46fe-b11d-3e52a10d4aaa" />
 <br>
 
-<img width="828" height="528" alt="Screenshot 2026-04-21 at 6 33 22 pm" src="https://github.com/user-attachments/assets/e96334f2-6a04-472f-81d8-dd5a1e3aa214" />
+<img width="661" height="510" alt="Screenshot 2026-05-10 at 5 52 25 pm" src="https://github.com/user-attachments/assets/0792c15b-3480-4a49-a92e-ae19fadfe6b6" />
+<br>
+
+<img width="721" height="426" alt="Screenshot 2026-05-10 at 5 51 48 pm" src="https://github.com/user-attachments/assets/af592c31-887b-44b3-8546-dd036dfd817d" />
+
 <br>
 
 BOM:
